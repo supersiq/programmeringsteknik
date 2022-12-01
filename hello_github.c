@@ -1,7 +1,8 @@
-# include stdio.h
+# include <stdio.h>
 
-int main()
+int main(void){
 
-printf("I do not remember anything :)")
-
+printf("I do not remember anything :)\n");
+//Now online?
 return 0;
+}
